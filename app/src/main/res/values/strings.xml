@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TuneGuessr</string>
+    <string name="training_game">Entrenamiento</string>
+    <string name="public_game">Contra desconocidos</string>
+    <string name="private_game">Batalla de amigos</string>
+    <string name="create">Crear</string>
+    <string name="back">Atrás</string>
+    <string name="join">Unirse</string>
+    <string name="search">Buscar</string>
+    <string name="code">Código</string>
+    <string name="password">Contraseña</string>
+    <string name="password_placeholder">Tuneguessr</string>
+    <string name="code_placeholder">06D7XY</string>
+    <string name="available_public_games">Partidas públicas disponibles</string>
+    <string name="create_public_game_cta">Quieres crear una?</string>
+    <string name="no_available_public_games">Parece que no hay ninguna partida pública disponible...</string>
+    <string name="something_broke">Ups parece que algo salió mal...</string>
+    <string name="try_again_later">Intentalo de nuevo más tarde</string>
+    <string name="loading">Cargando...</string>
+    <string name="genres">Generos</string>
+    <string name="play">Jugar</string>
+</resources>

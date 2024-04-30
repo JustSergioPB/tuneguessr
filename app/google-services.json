@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799400960779",
+    "project_id": "tuneguessr-afe59",
+    "storage_bucket": "tuneguessr-afe59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799400960779:android:f7d25c3da1353aa73ab80e",
+        "android_client_info": {
+          "package_name": "com.example.tuneguessr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD15DyH5YRJ8Jr_NtKh3V6CvyRZE5agNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
